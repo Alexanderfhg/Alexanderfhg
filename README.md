@@ -1,59 +1,28 @@
-<h1 align="center">
-  <b>Abhigyan Trips</b>
-</h1>
+# Alexander's GitHub Readme
 
-Heya! I'm Abhigyan Tripathi, a student currently living in Mumbai, India. I'm preparing for 
-<a href="https://en.wikipedia.org/wiki/Joint_Entrance_Examination">JEE</a>, 
-and learning programming through small projects  on the side.
+Hi there! I'm Alexander, a passionate technology enthusiast and web developer. Welcome to my GitHub profile! 👋
 
-<br>
+## About Me
+I am currently studying Software Engineering at Politécnico Grancolombiano, learning English at The Lincoln English Center, and pursuing Full Stack Developer training at SoyHenry. Through these educational experiences, I am acquiring skills in various technologies, including:
 
-<p>
-<div align="center">
-  <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
-  <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
-</div>
-</p>
+- Java
+- JavaScript
+- React
+- Redux
+- HTML
+- CSS
+- Git
+- Github
 
-```python
-class AbhigyanTrips():
-    
-  def __init__(self):
-    self.name = "Abhigyan Tripathi";
-    self.username = "abhigyantrips";
-    self.location = "Mumbai, India";
-    self.twitter = "@abhigyantrips";
-    self.web = "https://abhigyantrips.dev";
-  
-  def __str__(self):
-    return self.name
+## Expertise
+I have a strong foundation in both Back End and Front End development. I love diving into new technologies and learning innovative approaches to problem-solving. Constantly seeking ways to improve my skills and knowledge, I am committed to personal and professional growth.
 
-if __name__ == '__main__':
-    me = AbhigyanTrips()
-```
+## Goals
+My ultimate goal is to contribute to the development of creative and innovative solutions in the world of web development. I am eager to collaborate with like-minded individuals and be part of projects that make a positive impact. Let's build something awesome together!
 
-<div align="center">
-  <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
-    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
-  </a>
-</div>
+## Contact Me
+Feel free to reach out to me through the following channels:
+- Email: [0freddyherrera0@gmail.com](mailto:0freddyherrera0@gmail.com)
+- LinkedIn: [linkedin.com/in/freddy-alexander-herrera-garcia](https://www.linkedin.com/in/freddy-alexander-herrera-garcia-9678771ab/)
 
-<!--
-<div align="center">
-  <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
-    <img src="https://spotify-readme-theta-virid.vercel.app/api?scan=true&theme=dark" width="240px">
-  </a>
-</div>
--->
-
-## My Statistics
-
-<br/>
-<p align="left">
-  <a href="https://abhigyantrips.dev/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=abhigyantrips&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhigyantrips&theme=gruvbox&hide_border=true" />
-  </a>
-</p>
-<br>
+Thank you for visiting my GitHub profile. Don't forget to check out my repositories and projects. Happy coding! 💻⌨
