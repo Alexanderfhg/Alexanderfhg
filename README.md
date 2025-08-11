@@ -13,6 +13,8 @@ I am currently studying Software Engineering at Politécnico Grancolombiano, lea
 - CSS
 - Git
 - Github
+- MongoDB
+- Firebase
 
 ## Expertise
 I have a strong foundation in both Back End and Front End development. I love diving into new technologies and learning innovative approaches to problem-solving. Constantly seeking ways to improve my skills and knowledge, I am committed to personal and professional growth.
