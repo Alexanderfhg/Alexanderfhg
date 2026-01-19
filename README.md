@@ -7,8 +7,10 @@ I am currently studying Software Engineering at Politécnico Grancolombiano, lea
 
 - Java
 - JavaScript
+- TypeScript
 - React
 - Redux
+- Zustand
 - HTML
 - CSS
 - Git
